@@ -1,2 +1,2 @@
 # latihan-branch
-halo saya panda
+halo saya panda.. baik nama salam kenal panda
